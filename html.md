@@ -10,3 +10,8 @@
 * `<h1>` is a header1 tag you can have many of these header2 etc these go within the body tag
 * `<p>` is a paragraph tag goes with the body tag
 * `<script>` is using javascript `<script>document.write(process.versions.node)</script>` with display the version number of Node you are using 
+
+## Week One:
+
+* Place `<link rel="stylesheet" type="text/css" href="theme.css">` with the `<head>` tag to link the .css sheet to the index
+* 

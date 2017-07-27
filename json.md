@@ -1,12 +1,6 @@
-## Week One:
-
-const {app, BrowserWindow} = require('electron') - This lets you create and control browser depending on what you want to do
-const path = require('path') - used with Node
-const url = require('url') - used with Node
-
 ## Week Two:
 
-package.json to avoid WARNS when running npm in git 
+package.json to avoid WARNS when running npm in git, this also links to the main.js file
 
 ```json 
 {
